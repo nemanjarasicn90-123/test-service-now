@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_script">
+    <sys_ui_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>tetetetetetetetetet</description>
+        <global>false</global>
+        <ignore_in_now_experience>false</ignore_in_now_experience>
+        <name>x_2168397_test_b_0.test ui scrip</name>
+        <script><![CDATA[// Replace "yourFunctionName" with an appropriate function name
+
+(function() {
+	return {
+		// Define your Workspace functions here
+		yourFunctionName: function() {
+
+			// Workspace code goes here 
+
+		}
+	};
+})();
+
+// Define your core UI functions here
+function yourFunctionName() {
+
+	// Core UI code goes here
+
+}]]></script>
+        <script_name>test ui scrip</script_name>
+        <sys_class_name>sys_ui_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-18 09:18:24</sys_created_on>
+        <sys_id>0472911983364350058a9629feaad3a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2168397_test_b_0.test ui scrip</sys_name>
+        <sys_package display_value="test bitbucket" source="x_2168397_test_b_0">4dd3b09983324350058a9629feaad357</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test bitbucket">4dd3b09983324350058a9629feaad357</sys_scope>
+        <sys_update_name>sys_ui_script_0472911983364350058a9629feaad3a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-18 09:18:24</sys_updated_on>
+        <ui_type>10</ui_type>
+        <use_scoped_format>false</use_scoped_format>
+    </sys_ui_script>
+</record_update>
