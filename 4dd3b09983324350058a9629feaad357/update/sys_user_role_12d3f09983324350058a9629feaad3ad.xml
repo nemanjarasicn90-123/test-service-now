@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default user role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>26nGICuykhTZvfMBFhxS3l3DgQgJv8rcYbtnIt45n3g=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_2168397_test_b_0.user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-08-18 07:03:54</sys_created_on>
+        <sys_id>12d3f09983324350058a9629feaad3ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2168397_test_b_0.user</sys_name>
+        <sys_package display_value="test bitbucket" source="x_2168397_test_b_0">4dd3b09983324350058a9629feaad357</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="test bitbucket">4dd3b09983324350058a9629feaad357</sys_scope>
+        <sys_update_name>sys_user_role_12d3f09983324350058a9629feaad3ad</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-08-18 07:03:54</sys_updated_on>
+    </sys_user_role>
+</record_update>
